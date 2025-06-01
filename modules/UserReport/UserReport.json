@@ -1,0 +1,75 @@
+{
+  "gitSyncId": "683ccb624834013073a1a79e_e94ddc32-6785-4174-802a-d41e08dc62fd",
+  "moduleUUID": "2ab40b6a-b093-495b-a5db-10cbdc5c4df3",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "dynamicBindingPathList": [
+      {
+        "key": "outputsForm[0].children[0].value"
+      }
+    ],
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "United States",
+            "id": "kewkcqvayj",
+            "label": "country",
+            "propertyName": "inputs.country"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "20",
+            "id": "nukedgbche",
+            "label": "limit",
+            "propertyName": "inputs.limit"
+          }
+        ],
+        "id": "tprtydmemm",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 671,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 681,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 91,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "UserReport",
+    "outputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "id": "sutlrhwsbb",
+            "label": "selectedUser",
+            "propertyName": "outputs.selectedUser",
+            "value": "{{Table1.selectedRow}}"
+          }
+        ],
+        "id": "msirkeujhm",
+        "sectionName": ""
+      }
+    ]
+  }
+}

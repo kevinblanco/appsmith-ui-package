@@ -1,0 +1,90 @@
+{
+  "gitSyncId": "683ccb624834013073a1a79e_0b1eb22e-4e8c-44d7-a07e-bc2c680eee36",
+  "moduleUUID": "199ea3f0-a0c8-47f8-98f6-24c69bb7539c",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_hybrid&w=740",
+            "id": "vaprqaspzw",
+            "label": "photo",
+            "propertyName": "inputs.photo"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "John Doe",
+            "id": "tkrjaedfuq",
+            "label": "name",
+            "propertyName": "inputs.name"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "United States",
+            "id": "slczywtogn",
+            "label": "country",
+            "propertyName": "inputs.country"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "09/09/1999",
+            "id": "jykxtfetic",
+            "label": "date_of_birth",
+            "propertyName": "inputs.date_of_birth"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "+1111111111",
+            "id": "vcooqlzjpl",
+            "label": "phone",
+            "propertyName": "inputs.phone"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "john@doe.com",
+            "id": "cnxdelobyk",
+            "label": "email",
+            "propertyName": "inputs.email"
+          }
+        ],
+        "id": "uddmmotkou",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 380,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 681,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 91,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "UserCard",
+    "outputsForm": [
+      {
+        "children": [],
+        "id": "ewewhhcyse",
+        "sectionName": ""
+      }
+    ]
+  }
+}

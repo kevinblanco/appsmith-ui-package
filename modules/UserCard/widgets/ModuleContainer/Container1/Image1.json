@@ -1,0 +1,40 @@
+{
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 15,
+  "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
+  "defaultImage": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_hybrid&w=740",
+  "dynamicBindingPathList": [
+    {
+      "key": "image"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "{{inputs.photo}}",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "gui6wesl8e",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 14,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 12,
+  "mobileTopRow": 2,
+  "needsErrorInfo": false,
+  "objectFit": "contain",
+  "parentColumnSpace": 13.4921875,
+  "parentId": "u22efevp47",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 9,
+  "topRow": 3,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "2va9k7wfbd",
+  "widgetName": "Image1"
+}
