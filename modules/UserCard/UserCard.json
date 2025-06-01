@@ -47,6 +47,13 @@
             "id": "cnxdelobyk",
             "label": "email",
             "propertyName": "inputs.email"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "2023-05-26T13:45:13Z",
+            "id": "enrmivikra",
+            "label": "lastchanged",
+            "propertyName": "inputs.lastchanged"
           }
         ],
         "id": "uddmmotkou",
