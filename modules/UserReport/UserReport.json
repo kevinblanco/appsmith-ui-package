@@ -34,7 +34,7 @@
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 671,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
