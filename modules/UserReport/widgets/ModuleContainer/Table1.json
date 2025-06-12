@@ -32,8 +32,8 @@
     }
   },
   "columnOrder": [
-    "id",
     "gender",
+    "id",
     "latitude",
     "longitude",
     "dob",
@@ -45,7 +45,7 @@
     "created_at",
     "updated_at"
   ],
-  "columnUpdatedAt": 1748820658267,
+  "columnUpdatedAt": 1749736963001,
   "columnWidthMap": {},
   "customIsLoading": false,
   "customIsLoadingValue": "",
